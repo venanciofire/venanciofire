@@ -1,4 +1,4 @@
-### Olá!!! Sou Carlos Venâncio ou Venâncio como todos me chamam. Navegando em mundo de dados buscando sempre novos insight,apaixonado por tecnologia 👋
+### Navegando em mundo de dados buscando sempre novos insight,apaixonado por tecnologia 👋
 ##
 <!--
 **venanciofire/venanciofire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
